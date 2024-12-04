@@ -1,0 +1,25 @@
+LIBRARY BORROWED BOOKS REPORT
+Generated on: 2024-12-04 19:17:25
+
+----------------------------------------------------------------------------------------------------
+Book ID: 1
+Title: Harry Potter and the Philosopher's Stone
+Borrowed by: John Smith
+Borrow Date: 2024-11-24
+Due Date: 2024-12-08
+Status: On Time
+----------------------------------------------------------------------------------------------------
+Book ID: 2
+Title: The Lord of the Rings
+Borrowed by: Emma Wilson
+Borrow Date: 2024-11-14
+Due Date: 2024-11-28
+Status: Overdue
+----------------------------------------------------------------------------------------------------
+Book ID: 3
+Title: To Kill a Mockingbird
+Borrowed by: Michael Brown
+Borrow Date: 2024-11-29
+Due Date: 2024-12-13
+Status: On Time
+----------------------------------------------------------------------------------------------------

@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "publication_year": "1997",
+        "available": false
+    },
+    {
+        "id": 2,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "publication_year": "1954",
+        "available": false
+    },
+    {
+        "id": 3,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publication_year": "1960",
+        "available": false
+    },
+    {
+        "id": 4,
+        "title": "1984",
+        "author": "George Orwell",
+        "publication_year": "1949",
+        "available": true
+    },
+    {
+        "id": 6,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publication_year": "1925",
+        "available": true
+    },
+    {
+        "id": 7,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "publication_year": "1937",
+        "available": true
+    },
+    {
+        "id": 8,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "publication_year": "1951",
+        "available": true
+    },
+    {
+        "id": 9,
+        "title": "The Chronicles of Narnia",
+        "author": "C.S. Lewis",
+        "publication_year": "1950",
+        "available": true
+    },
+    {
+        "id": 10,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "publication_year": "1932",
+        "available": true
+    },
+    {
+        "id": 11,
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "publication_year": "2008",
+        "available": true
+    },
+    {
+        "id": 12,
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "publication_year": "2003",
+        "available": true
+    },
+    {
+        "id": 13,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "publication_year": "1988",
+        "available": true
+    },
+    {
+        "id": 14,
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exup\u00e9ry",
+        "publication_year": "1943",
+        "available": true
+    },
+    {
+        "id": 15,
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "publication_year": "1605",
+        "available": true
+    },
+    {
+        "id": 16,
+        "title": "THE OMAR",
+        "author": "Omar",
+        "publication_year": "1709",
+        "available": true
+    },
+    {
+        "id": 17,
+        "title": "Ottomans Empire",
+        "author": "OJT",
+        "publication_year": "1954",
+        "available": true
+    }
+]
